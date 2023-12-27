@@ -53,6 +53,6 @@ Phase 4: Documentation and Release (Duration: 1 week)
 - User analytics for tracking message effectiveness.
 - Enhanced security features, like two-factor authentication.
 
-## Developers:
-Lead Developer: [PyotrAndreev]
-Python Developer: [kiyomiqqq]
+## Developers
+- **Lead Developer:** [PyotrAndreev](https://github.com/PyotrAndreev)
+- **Python Developer:** [kiyomiqqq](https://github.com/kiyomiqqq)
